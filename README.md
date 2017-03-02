@@ -57,7 +57,7 @@ find the variable name "sample1" and replace "sample1" as "sample2". Next, save 
 
 ##Step6:  Close all files. Open Project.eww through IAR EWARM workbench.  
 
-##Step7:  In the IAR EWARM workspace, right click on "sample2". Click_Rebuild All_ on the menu.  
+##Step7:  In the IAR EWARM workspace, right click on "sample2". Click_Rebuild All_on the menu.  
 
 ##Step8:  Done!
         
