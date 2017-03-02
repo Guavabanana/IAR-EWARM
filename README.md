@@ -25,7 +25,7 @@ Step2: Open the EWARM folder under the "sample2" folder. Rename the folder "samp
 
 在“sample2”資料夾中打開EWARM資料夾, 找到“sample1”資料夾後重新命名該資料夾為“sample2".  
         
-Step3: in the EWARM folder, rename the following files:
+Step3: In the EWARM folder, rename the following files:
         
 
 在EWARM 資料夾中, 重新命名以下檔案名稱：
@@ -40,10 +40,10 @@ Step3: in the EWARM folder, rename the following files:
         
         sample1.ewt    -> sample2.ewt
         
-Step4:  Open files sample2.dep, sample2.ewd, sample2.ewp and sample2.ewt in Sublime Text.  
+Step4:  Open files Project.eww, sample2.dep, sample2.ewd, sample2.ewp and sample2.ewt in Sublime Text.  
 
 
-利用Sublime Text開啟sample2.dep, sample2.ewd, sample2.ewp 和 sample2.ewt.
+利用Sublime Text開啟Project.eww, sample2.dep, sample2.ewd, sample2.ewp 和 sample2.ewt.
         
         
 Step5:  In Sublime Text, execute "Search and Replace".
@@ -53,7 +53,13 @@ Step5:  In Sublime Text, execute "Search and Replace".
         for Windows: press Ctrl + H  
         
         
-find the variable name "sample1" and replace "sample1" as "sample2". Next, save all files.
+find the variable name "sample1" and replace "sample1" as "sample2". Next, save all files.  
+
+Step6:  Close all files. Open Project.eww through IAR EWARM workbench.  
+
+Step7:  In the IAR EWARM workspace, right click on "sample2". Click_Rebuild All_ on the menu.  
+
+Step8:  Done!
         
         
         
